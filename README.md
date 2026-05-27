@@ -81,8 +81,8 @@ containerlab version
 Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
-git clone https://github.com//NathalyaRedes/lab.git
-cd ebpf-lab
+git clone https://github.com//NathalyaRedes/lab-redes.git
+cd lab-redes
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
