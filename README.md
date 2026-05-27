@@ -82,7 +82,7 @@ Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
 git clone https://github.com//NathalyaRedes/lab.git
-cd lab
+cd ebpf-lab
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
